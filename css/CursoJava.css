@@ -1,0 +1,22 @@
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+h2{
+    color: orangered;
+}
+table, th, td{
+    border: 1px solid black;
+}
+/* iframe {
+    border: 1px solid black;
+    width: 100%;
+}
+
+.output {
+    background: #eee;
+} */
