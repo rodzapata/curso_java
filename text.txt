@@ -1,0 +1,13 @@
+welcome to my channel everybody my name is Caleb 
+and this video series is going to give you everything you
+need to khow to be a Java developer so
+we're going to start you out from a complete newbie and
+by the end of this series you
+should be writing Java application like a pro
+and here's this beautiful speed drawing that
+you guys can stare at for a couple minutes
+while I talk one thing that makes this
+series unique from all the other Java series on the
+Internet is I don't have the goal of boring you to
+death I'm gonna try and make everything entertaining 
+
